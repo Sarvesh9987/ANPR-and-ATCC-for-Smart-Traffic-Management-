@@ -1,31 +1,39 @@
-SMART TRAFFIC MANAGEMENT 
-SmartTraffix is an AI-powered Automated Number Plate Recognition (ANPR) and Advanced Traffic Counting & Classification (ATCC) system. It integrates Computer Vision and Deep Learning to detect violations like Helmet Detection, Triple Riding, Overspeeding, and Signal Jumping, enhancing traffic surveillance and safety.
 
-Deployment
-Follow the below steps to succesfully deploy this project :-
+# **SMART TRAFFIC MANAGEMENT**  
 
-Step1:
-To deploy this project, first go to your VsCode terminal and type :
+**SmartTraffix** is an AI-powered **Automated Number Plate Recognition (ANPR) and Advanced Traffic Counting & Classification (ATCC)** system. Developed by **[Your Name]**, it integrates **Computer Vision and Deep Learning** to detect traffic violations like **Helmet Detection, Triple Riding, Overspeeding, and Signal Jumping**, enhancing traffic surveillance and road safety.  
 
-Step2:
-Once the project is clone, open the terminal and type :
+## **Deployment**  
+Follow the steps below to successfully deploy this project:  
 
-  python app.py
-Alternatively, you can directly use the "Run python file" option for the app.py file.
+### **Step 1:**  
+To deploy this project, first, open your **VS Code terminal** and type:  
 
-Now the backend is ready to accept the responses from the frontend.
+```sh
+git clone <repository-link>
+cd SmartTraffix
+```
 
-Step3:
-Open a new terminal by clicking the "+" icon on the top right portion of the terminal and then type :
+### **Step 2:**  
+Once the project is cloned, open the terminal and run:  
 
-  npm run dev
-This will start the react frontend. Click on the host link that will be displayed in the terminal
+```sh
+python app.py
+```
+Alternatively, you can directly use the **"Run Python File"** option for the `app.py` file.  
+Now the backend is ready to accept responses from the frontend.  
 
-Step4
-A login page appears.
+### **Step 3:**  
+Open a new terminal by clicking the **"+"** icon in the terminal, then type:  
 
-username : user
+```sh
+npm run dev
+```
+This will start the **React frontend**. Click on the host link displayed in the terminal.  
 
-password : pass
+### **Step 4:**  
+A **login page** will appear.  
 
-On providing, the above credentials, the main dashboard will appear.
+---
+
+Let me know if you'd like any modifications! 🚦📸
