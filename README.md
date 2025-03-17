@@ -1,5 +1,5 @@
 
-# **SMART TRAFFIC MANAGEMENT**  
+# **ANPR AND ATCC SMART TRAFFIC MANAGEMENT**  
 
 **SmartTraffix** is an AI-powered **Automated Number Plate Recognition (ANPR) and Advanced Traffic Counting & Classification (ATCC)** system. Developed by **[Your Name]**, it integrates **Computer Vision and Deep Learning** to detect traffic violations like **Helmet Detection, Triple Riding, Overspeeding, and Signal Jumping**, enhancing traffic surveillance and road safety.  
 
