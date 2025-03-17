@@ -1,7 +1,7 @@
 
 # **ANPR AND ATCC SMART TRAFFIC MANAGEMENT**  
 
-**SmartTraffix** is an AI-powered **Automated Number Plate Recognition (ANPR) and Advanced Traffic Counting & Classification (ATCC)** system. Developed by **[Your Name]**, it integrates **Computer Vision and Deep Learning** to detect traffic violations like **Helmet Detection, Triple Riding, Overspeeding, and Signal Jumping**, enhancing traffic surveillance and road safety.  
+**SmartTraffic** is an AI-powered **Automated Number Plate Recognition (ANPR) and Advanced Traffic Counting & Classification (ATCC)** system. Developed by **[Your Name]**, it integrates **Computer Vision and Deep Learning** to detect traffic violations like **Helmet Detection, Triple Riding, Overspeeding, and Signal Jumping**, enhancing traffic surveillance and road safety.  
 
 ## **Deployment**  
 Follow the steps below to successfully deploy this project:  
@@ -11,7 +11,7 @@ To deploy this project, first, open your **VS Code terminal** and type:
 
 ```sh
 git clone <repository-link>
-cd SmartTraffix
+cd SmartTraffic
 ```
 
 ### **Step 2:**  
