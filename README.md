@@ -1,7 +1,7 @@
 
 # **ANPR AND ATCC SMART TRAFFIC MANAGEMENT**  
 
-**SmartTraffic** is an AI-powered **Automated Number Plate Recognition (ANPR) and Advanced Traffic Counting & Classification (ATCC)** system. Developed by **[Your Name]**, it integrates **Computer Vision and Deep Learning** to detect traffic violations like **Helmet Detection, Triple Riding, Overspeeding, and Signal Jumping**, enhancing traffic surveillance and road safety.  
+**SmartTraffic** SmartTraffic is an AI-powered Automated Number Plate Recognition (ANPR) and Advanced Traffic Counting & Classification (ATCC) system. Developed by Sarvesh Yashwant Redekar during the Infosys Springboard Internship, this project integrates Computer Vision and Deep Learning to enhance traffic surveillance and road safety. The system efficiently detects traffic violations such as Helmet Detection, Triple Riding, Overspeeding, and Signal Jumping while providing real-time monitoring through a user-friendly interface.  
 
 ## **Deployment**  
 Follow the steps below to successfully deploy this project:  
